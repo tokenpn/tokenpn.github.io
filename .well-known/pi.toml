@@ -44,3 +44,290 @@ issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
 name="DOGE"
 desc="Dogecoin"
 image="https://cryptologos.cc/logos/dogecoin-doge-logo.png"
+
+[[CURRENCIES]]
+code="META"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Meta"
+desc="Meta Stock Token"
+image="https://logo.clearbit.com/meta.com"
+
+[[CURRENCIES]]
+code="AAPL"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Apple"
+desc="Apple Stock Token"
+image="https://logo.clearbit.com/apple.com"
+
+[[CURRENCIES]]
+code="MSFT"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Microsoft"
+desc="Microsoft Stock Token"
+image="https://logo.clearbit.com/microsoft.com"
+
+[[CURRENCIES]]
+code="GOOGL"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Google"
+desc="Google Stock Token"
+image="https://logo.clearbit.com/google.com"
+
+[[CURRENCIES]]
+code="AMZN"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Amazon"
+desc="Amazon Stock Token"
+image="https://logo.clearbit.com/amazon.com"
+
+[[CURRENCIES]]
+code="NVDA"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="NVIDIA"
+desc="NVIDIA Stock Token"
+image="https://logo.clearbit.com/nvidia.com"
+
+[[CURRENCIES]]
+code="TSLA"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Tesla"
+desc="Tesla Stock Token"
+image="https://logo.clearbit.com/tesla.com"
+
+[[CURRENCIES]]
+code="INTC"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Intel"
+desc="Intel Stock Token"
+image="https://logo.clearbit.com/intel.com"
+
+[[CURRENCIES]]
+code="AMD"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="AMD"
+desc="AMD Stock Token"
+image="https://logo.clearbit.com/amd.com"
+
+[[CURRENCIES]]
+code="ORCL"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Oracle"
+desc="Oracle Stock Token"
+image="https://logo.clearbit.com/oracle.com"
+
+[[CURRENCIES]]
+code="IBM"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="IBM"
+desc="IBM Stock Token"
+image="https://logo.clearbit.com/ibm.com"
+
+[[CURRENCIES]]
+code="CSCO"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Cisco"
+desc="Cisco Stock Token"
+image="https://logo.clearbit.com/cisco.com"
+
+[[CURRENCIES]]
+code="TCEHY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Tencent"
+desc="Tencent Stock Token"
+image="https://logo.clearbit.com/tencent.com"
+
+[[CURRENCIES]]
+code="SONY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Sony"
+desc="Sony Stock Token"
+image="https://logo.clearbit.com/sony.com"
+
+[[CURRENCIES]]
+code="NTDOY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Nintendo"
+desc="Nintendo Stock Token"
+image="https://logo.clearbit.com/nintendo.com"
+
+[[CURRENCIES]]
+code="EA"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Electronic Arts"
+desc="Electronic Arts Stock Token"
+image="https://logo.clearbit.com/ea.com"
+
+[[CURRENCIES]]
+code="UBSFY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Ubisoft"
+desc="Ubisoft Stock Token"
+image="https://logo.clearbit.com/ubisoft.com"
+
+[[CURRENCIES]]
+code="TTWO"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Take-Two Interactive"
+desc="Take-Two Interactive Stock Token"
+image="https://logo.clearbit.com/take2games.com"
+
+[[CURRENCIES]]
+code="TM"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Toyota"
+desc="Toyota Stock Token"
+image="https://logo.clearbit.com/toyota.com"
+
+[[CURRENCIES]]
+code="BMWYY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="BMW"
+desc="BMW Stock Token"
+image="https://logo.clearbit.com/bmw.com"
+
+[[CURRENCIES]]
+code="MBGYY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Mercedes-Benz"
+desc="Mercedes-Benz Stock Token"
+image="https://logo.clearbit.com/mercedes-benz.com"
+
+[[CURRENCIES]]
+code="RACE"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Ferrari"
+desc="Ferrari Stock Token"
+image="https://logo.clearbit.com/ferrari.com"
+
+[[CURRENCIES]]
+code="F"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Ford"
+desc="Ford Stock Token"
+image="https://logo.clearbit.com/ford.com"
+
+[[CURRENCIES]]
+code="GM"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="General Motors"
+desc="General Motors Stock Token"
+image="https://logo.clearbit.com/gm.com"
+
+[[CURRENCIES]]
+code="SNAP"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Snapchat"
+desc="Snapchat Stock Token"
+image="https://logo.clearbit.com/snapchat.com"
+
+[[CURRENCIES]]
+code="PINS"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Pinterest"
+desc="Pinterest Stock Token"
+image="https://logo.clearbit.com/pinterest.com"
+
+[[CURRENCIES]]
+code="RDDT"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Reddit"
+desc="Reddit Stock Token"
+image="https://logo.clearbit.com/reddit.com"
+
+[[CURRENCIES]]
+code="SPOT"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Spotify"
+desc="Spotify Stock Token"
+image="https://logo.clearbit.com/spotify.com"
+
+[[CURRENCIES]]
+code="PYPL"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="PayPal"
+desc="PayPal Stock Token"
+image="https://logo.clearbit.com/paypal.com"
+
+[[CURRENCIES]]
+code="V"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Visa"
+desc="Visa Stock Token"
+image="https://logo.clearbit.com/visa.com"
+
+[[CURRENCIES]]
+code="MA"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Mastercard"
+desc="Mastercard Stock Token"
+image="https://logo.clearbit.com/mastercard.com"
+
+[[CURRENCIES]]
+code="XYZ"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Block"
+desc="Block Stock Token"
+image="https://logo.clearbit.com/block.xyz"
+
+[[CURRENCIES]]
+code="COIN"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Coinbase"
+desc="Coinbase Stock Token"
+image="https://logo.clearbit.com/coinbase.com"
+
+[[CURRENCIES]]
+code="KO"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Coca-Cola"
+desc="Coca-Cola Stock Token"
+image="https://logo.clearbit.com/coca-colacompany.com"
+
+[[CURRENCIES]]
+code="PEP"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="PepsiCo"
+desc="PepsiCo Stock Token"
+image="https://logo.clearbit.com/pepsico.com"
+
+[[CURRENCIES]]
+code="MCD"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="McDonalds"
+desc="McDonalds Stock Token"
+image="https://logo.clearbit.com/mcdonalds.com"
+
+[[CURRENCIES]]
+code="SBUX"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Starbucks"
+desc="Starbucks Stock Token"
+image="https://logo.clearbit.com/starbucks.com"
+
+[[CURRENCIES]]
+code="NKE"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Nike"
+desc="Nike Stock Token"
+image="https://logo.clearbit.com/nike.com"
+
+[[CURRENCIES]]
+code="ADDYY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Adidas"
+desc="Adidas Stock Token"
+image="https://logo.clearbit.com/adidas.com"
+
+[[CURRENCIES]]
+code="LVMUY"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Louis Vuitton"
+desc="Louis Vuitton Stock Token"
+image="https://logo.clearbit.com/lvmh.com"
+
+[[CURRENCIES]]
+code="DIS"
+issuer="GAQBK7HDP7TYFXUGZDGXCCUTKXJ6WJ3OJZBIGDRERWFDH4AVUCSPAJ3O"
+name="Disney"
+desc="Disney Stock Token"
+image="https://logo.clearbit.com/disney.com"
